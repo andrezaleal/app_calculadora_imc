@@ -2,7 +2,7 @@
 
 Este é um aplicativo simples desenvolvido em Flutter que calcula o Índice de Massa Corporal (IMC). Este projeto foi criado como parte do Bootcamp do Santander na plataforma Digital Innovation One.
 
-![Demonstração do Aplicativo](https://github.com/andrezaleal/calculadora_imc_app/blob/main/calculadora_imc_app/lib/assets/app.gif)
+![Demonstração do Aplicativo](https://github.com/andrezaleal/app_calculadora_imc/blob/main/calculadora_imc/lib/assets/app.gif)
 
 ## Funcionalidades ✨
 
